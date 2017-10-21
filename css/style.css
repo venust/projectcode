@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+body{
+    background-color: #90c4d4;
+    background-image: url("../images/light.jpg");
+    background-size:cover;
+}
+
+#informative{
+        color: blue;
+}
+#labeling{
+        color: blue;
+}
+#characteristics{
+        color:blue;
+}
+h2{font-family: 'PT Sans Narrow', sans-serif;
+    text-align:center;
+    border:2px solid blue; 
+    width:90%;
+    margin: auto;
+}
+#nav a:link{
+    color: red;
+}
+#nav a:visited{
+    color:blue;
+}
+#nav a:hover{
+    color:Green;
+}
+#nav a:active{
+    color:red;
+}
+
+
+ 
